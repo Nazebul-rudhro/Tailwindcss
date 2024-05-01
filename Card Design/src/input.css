@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.card{
+    background-image: url("../images/bg.png");
+}
+.logo{
+    background-image: url("../images/logo.png");
+}
